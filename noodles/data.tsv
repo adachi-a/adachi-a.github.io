@@ -1,0 +1,18 @@
+item_id	店名	種類	エリア	品名	価格	備考	item_url	item_iiif_manifest_url
+001	らーめん そら	ラーメン	北海道	スープカレーラーメン	1430	札幌ら〜めん共和国	https://adachi-a.github.io/noodles/001.html	https://adachi-a.github.io/noodles/iiif/manifests/001.json
+002	東京駅 斑鳩	ラーメン	東京	東京駅らーめん	1100		https://adachi-a.github.io/noodles/002.html	https://adachi-a.github.io/noodles/iiif/manifests/002.json
+003	鶏soba KAMOSHI	ラーメン	北海道	カニ甲羅盛り醤油ラーメン	1430	物産展	https://adachi-a.github.io/noodles/003.html	https://adachi-a.github.io/noodles/iiif/manifests/003.json
+004	レストラン御幸	ラーメン	青森	黒石つゆやきそば	880	物産展	https://adachi-a.github.io/noodles/004.html	https://adachi-a.github.io/noodles/iiif/manifests/004.json
+005	ふじ屋NOODLE	ラーメン	北海道	味噌バターコーンラーメン	1540	物産展	https://adachi-a.github.io/noodles/005.html	https://adachi-a.github.io/noodles/iiif/manifests/005.json
+006	東大生協 本郷中央食堂	ラーメン	東京	濃厚煮干しラーメン	539		https://adachi-a.github.io/noodles/006.html	https://adachi-a.github.io/noodles/iiif/manifests/006.json
+007	弟子屈ラーメン総本店	ラーメン	北海道	味噌焼豚ラーメン	1045	物産展	https://adachi-a.github.io/noodles/007.html	https://adachi-a.github.io/noodles/iiif/manifests/007.json
+008	らーめん 一信	ラーメン	東京	味噌白湯らーめん	770		https://adachi-a.github.io/noodles/008.html	https://adachi-a.github.io/noodles/iiif/manifests/008.json
+009	杵屋	うどん	東京	冷やし鶏天おろしうどん	1100		https://adachi-a.github.io/noodles/009.html	https://adachi-a.github.io/noodles/iiif/manifests/009.json
+010	トウキョウライトブルー ホンゴウスリー	うどん	東京	きまぐれL.B.大	900		https://adachi-a.github.io/noodles/010.html	https://adachi-a.github.io/noodles/iiif/manifests/010.json
+011	山手らーめん 新館	ラーメン	東京	特製ゆきらーめん	1000		https://adachi-a.github.io/noodles/011.html	https://adachi-a.github.io/noodles/iiif/manifests/011.json
+012	元祖新潟濃厚味噌 東横	ラーメン	新潟	新潟濃厚味噌チャーシュー麺	1190	物産展	https://adachi-a.github.io/noodles/012.html	https://adachi-a.github.io/noodles/iiif/manifests/012.json
+013	すみれ 札幌すすきの店	ラーメン	北海道	味噌ラーメン	900		https://adachi-a.github.io/noodles/013.html	https://adachi-a.github.io/noodles/iiif/manifests/013.json
+014	Shin-Shin	ラーメン	福岡	煮卵ラーメン	880	物産展	https://adachi-a.github.io/noodles/014.html	https://adachi-a.github.io/noodles/iiif/manifests/014.json
+015	つけめんTETSU	ラーメン	東京	つけめん	1100		https://adachi-a.github.io/noodles/015.html	https://adachi-a.github.io/noodles/iiif/manifests/015.json
+016	富良野五郎ラーメン	ラーメン	北海道	冷やしラーメン	1320		https://adachi-a.github.io/noodles/016.html	https://adachi-a.github.io/noodles/iiif/manifests/016.json
+017	一蘭	ラーメン	東京	天然とんこつラーメン	1100		https://adachi-a.github.io/noodles/017.html	https://adachi-a.github.io/noodles/iiif/manifests/017.json

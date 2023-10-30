@@ -30,7 +30,7 @@
         <hr />
         <div class="row">
             <div class="col-4">
-                <img id="openViewer" class="img-fluid img-thumbnail" src="https://adachi-a.github.io/dakit2/items/images/005.jpg" alt="聞書諸国大地震并出火">
+                <img id="openViewer" class="img-fluid img-thumbnail" src="{'src': 'https://adachi-a.github.io/dakit2/items/images/005.jpg'}" alt="聞書諸国大地震并出火">
             </div>
             <div class="col-8">
                 <table class="table">
@@ -79,7 +79,11 @@
     <script src="https://cdn.jsdelivr.net/npm/photoviewer@3.8.1/dist/photoviewer.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
     <script>
-        const images = ["https://adachi-a.github.io/dakit2/items/images/005.jpg", "https://adachi-a.github.io/dakit2/items/images/004.jpg"];
+        const images = [{
+            "src": "https://adachi-a.github.io/dakit2/items/images/005.jpg"
+        }, {
+            "src": "https://adachi-a.github.io/dakit2/items/images/004.jpg"
+        }];
         const options = {
             index: 0,
             fixedModalPos: true

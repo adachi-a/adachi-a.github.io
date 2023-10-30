@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DAKit Test Site</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link href="https://cdn.jsdelivr.net/npm/photoviewer@3.8.1/dist/photoviewer.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <header class="navbar bg-secondary navbar-expand-md" data-bs-theme="dark">
+        <nav class="container-md flex-wrap flex-md-nowrap" aria-label="Main navigation">
+            <!-- svelte-ignore a11y-invalid-attribute -->
+            <a class=" navbar-brand py-1 me-4" href="https://adachi-a.github.io/dakit2/"><span>DAKit Test Site</span></a>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav ms-auto"></ul>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <div class="d-flex my-4">
+            <h1>江戸大地震場所附</h1>
+            <div class="ms-auto">
+                <a class="btn btn-secondary" href="../jpcoar/I-01-020.xml" target="_blank"><i class="bi bi-download"></i> メタデータ<small>(JPCOAR)</small></a>
+            </div>
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-4">
+                <img id="openViewer" class="img-fluid img-thumbnail" src="https://adachi-a.github.io/dakit2/items/images/images/001.jpg" alt="江戸大地震場所附">
+            </div>
+            <div class="col-8">
+                <table class="table">
+                    <tbody>
+                        <tr>
+                            <th scope="row">資料番号</th>
+                            <td>I-01-020</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">タイトル</th>
+                            <td>江戸大地震場所附</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">別タイトル</th>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">内容分類</th>
+                            <td>災害</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">資料分類</th>
+                            <td>かわら版</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">印刷分類</th>
+                            <td>木版(墨一色)</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">年月日</th>
+                            <td>安政2年10月2日</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">サイズ</th>
+                            <td>35×48</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">備考</th>
+                            <td></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/photoviewer@3.8.1/dist/photoviewer.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+    <script>
+        const images = ["https://adachi-a.github.io/dakit2/items/images/images/001.jpg"];
+        const options = {
+            index: 0,
+            fixedModalPos: true
+        };
+        document.getElementById('openViewer').addEventListener('click', function() {
+            var viewer = new PhotoViewer(images, options);
+        });
+    </script>
+</body>
+
+</html>

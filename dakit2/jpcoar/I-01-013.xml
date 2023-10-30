@@ -1,0 +1,85 @@
+<jpcoar:jpcoar xmlns:datacite="https://schema.datacite.org/meta/kernel-4/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:jpcoar="https://github.com/JPCOAR/schema/blob/master/1.0/" xmlns:oaire="http://namespace.openaire.eu/schema/oaire/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rioxxterms="http://www.rioxx.net/schema/v2.0/rioxxterms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://github.com/JPCOAR/schema/blob/master/1.0/jpcoar_scm.xsd">
+        <dc:title xml:lang="ja">ゆるがぬ御代要之石寿栄</dc:title>
+        <jpcoar:relatedIdentifier identifierType="Local">I-01-013</jpcoar:relatedIdentifier>
+        <jpcoar:creator><jpcoar:creatorName></jpcoar:creatorName></jpcoar:creator>
+        <jpcoar:contributor contributorType="Distributor">
+            <jpcoar:contributorName>
+            
+            </jpcoar:contributorName>
+        </jpcoar:contributor>
+        <jpcoar:identifier identifierType="URI">
+            
+        </jpcoar:identifier>
+        <jpcoar:subject subjectScheme="Other">
+            
+        </jpcoar:subject>
+        <datacite:description descriptionType="Abstract">
+            
+        </datacite:description>
+        <dcterms:temporal>
+        
+        </dcterms:temporal>
+        <datacite:geoLocationPlace>
+        
+        </datacite:geoLocationPlace>
+        <datacite:description descriptionType="Other">
+        
+        </datacite:description>
+        <dcterms:accessRights>
+        
+        </dcterms:accessRights>
+        <dc:rights>
+        
+        </dc:rights>
+        <jpcoar:relatedIdentifier>
+        
+        </jpcoar:relatedIdentifier>
+        <dc:language>
+        
+        </dc:language>
+        <datacite:version>
+        
+        </datacite:version>
+        <datacite:description descriptionType="Methods">
+        
+        </datacite:description>
+        <datacite:description descriptionType="Methods">
+        
+        </datacite:description>
+        <datacite:description descriptionType="Methods">
+        
+        </datacite:description>
+        <datacite:description descriptionType="Methods">
+        
+        </datacite:description>
+        <jpcoar:funderName>
+        
+        </jpcoar:funderName>
+        <datacite:awardNumber>
+        
+        </datacite:awardNumber>
+        <dcterms:alternative>
+        
+        </dcterms:alternative>
+        <datacite:description descriptionType="Methods">
+        
+        </datacite:description>
+        <datacite:description descriptionType="Methods">
+        
+        </datacite:description>
+        <jpcoar:URI>
+        
+        </jpcoar:URI>
+        <jpcoar:relation relationType="isSupplementadBy">
+        
+        </jpcoar:relation>
+        <jpcoar:relation relationType="isReferencedBy">
+        
+        </jpcoar:relation>
+        <dc:publisher>
+        
+        </dc:publisher>
+        <jpcoar:contributor contributorType="Others">
+        
+        </jpcoar:contributor>
+      </jpcoar:jpcoar>

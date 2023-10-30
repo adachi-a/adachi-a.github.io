@@ -1,282 +1,282 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:rs="http://www.openarchives.org/rs/terms/">
-<rs:md at="2023-10-30T06:34:04Z" capability="resourcelist" completed="2023-10-30T06:34:04Z " />
+<rs:md at="2023-10-30T06:43:17Z" capability="resourcelist" completed="2023-10-30T06:43:17Z " />
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-033.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:cf260671a6baf678094d82b38a2379b3" length="3052" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-033.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-002.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:196d84d595780fe718d811c18a2baa10" length="3046" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-002.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-016.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:deffa3427102ce60be5804fe6945ff67" length="3058" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-016.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-003.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:5b4812e07f79d33079e4773b8f77f1f9" length="3067" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-003.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-029.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:6e1e1391b3a012446a8238d6cc755038" length="3052" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-029.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-006.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:d15469da6688809ae699ad4e40370a01" length="3052" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-006.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-020.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:fa91d3c6a70b7c65be0d199ea564ede9" length="3055" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-020.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-030.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:95a4ba16cbf7493c86f9ee57185422f6" length="3096" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-030.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-025.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:50e54d3ef9de689b8235ea9367f3daa2" length="3076" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-025.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-015.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:84533946a3edb0dee44ab9d6890d9a30" length="3052" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-015.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-009.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:bb5613fe20989c11f0dc8c800339a321" length="3076" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-009.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-013.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:9f905370d5ee93f9ba1f02d0cfe842f1" length="3064" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-013.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-036.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:d60d0296dc8c8d57dc3a8cc1fcf2f69d" length="3061" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-036.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-008.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:51ce476ab8f536b3cc82bba52fca8d6e" length="3052" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-008.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-014.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:e777c86ed5469fbcc3162480183f5123" length="3052" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-014.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-012.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:a4ef7c83dba0a7b403a8e38f670390d3" length="3065" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-012.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-022.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:7f8ba4f4c6cf64f5ce924334df26e2d6" length="3049" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-022.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-007.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:aec595b2c6d02874dfb8814d4905aa65" length="3061" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-007.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-011.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:183ecf4bfc3b0313c5e6934ced97f5fa" length="3091" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-011.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-021.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:50455848d8a3202324d6a1c42122b642" length="3049" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-021.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-038.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:684f042f5589d943dc9ae47500ebead4" length="3048" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-038.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-017.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:505421a8ccab81e0ad110c46379cb4dd" length="3046" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-017.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-024.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:0e07f48a3f7ef4af44c6cba08a37cd3a" length="3082" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-024.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-034.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:bf3abdb2b0575c7f0b8ee03a34566805" length="3054" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-034.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-031.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:5af716095ad5f65a16730ceb09a4508d" length="3052" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-031.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-039.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:fb445399c71101f0f1e73ae854340c50" length="3046" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-039.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-035.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:e88dcce6f0f0d74e9cba778febae9156" length="3039" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-035.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-027.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:d0156003821400e0d3eb88c9bdefe0b8" length="3064" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-027.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-023.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:9effec045d8fe909d93dd1e98b8335ae" length="3061" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-023.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-026.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:6ded7dc1eb8fffe89481fb9ffb674972" length="3054" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-026.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-004.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:9782466509f8c70d97bff437c74578ad" length="3061" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-004.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-028.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:986f43eae0c5721325d58956d369c930" length="3091" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-028.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-018.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:6763932f8a1b368dfe3a24245e648856" length="3048" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-018.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-001.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:09ffe50c2cccac64849bc07583efa69f" length="3088" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-001.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-005.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:f3767c2caa5d88d3e68ceb407ffcaeee" length="3055" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-005.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-019.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:f303ca2d4f3c4a74fe2b02c18d92f8d5" length="3070" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-019.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-040.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:bffcae3da518bbbe753a1c5bf117d2ae" length="3052" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-040.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-032.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:c39a85e6d3dd7beaf102fcf98b8709af" length="3085" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-032.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-010.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:25ff0287a5b8b1326de3d1c37e38f331" length="3085" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-010.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
     </url>
     <url>
 	    <loc>https://adachi-a.github.io/dakit2/jpcoar/I-01-037.xml</loc>
-	    <lastmod>2023-10-30T06:34:00Z</lastmod>
+	    <lastmod>2023-10-30T06:43:14Z</lastmod>
 	    <rs:md hash="md5:e47c1bd3e15b00e6c919c1edc72cd96c" length="3070" type="application/xml" />
       <rs:ln rel="describes" href="https://adachi-a.github.io/dakit2/jpcoar/I-01-037.xml" />
       <rs:ln rel="profile" href="https://github.com/JPCOAR/schema/blob/master/1.0/"/>
